@@ -1,15 +1,16 @@
+
 export const environment = {
-  production: true,
+  production: true
 };
 
 export const Config = {
-  api_key: '',
-  delivery_token: '',
-  environment: '',
-  branch: '',
-  region: '',
-  management_token: '',
-  api_host: '',
-  app_host: '',
-  live_preview: true,
+  api_key: 'blt33063ca72a98713b',
+  delivery_token: 'csea57514ec1761a47dfbad4e1',
+  environment: 'development',
+  branch: 'main',
+  region: 'us',
+  management_token:'undefined',
+  api_host:'dev11-api.csnonprod.com',
+  app_host:'undefined',
+  live_preview:true
 };
